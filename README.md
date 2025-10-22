@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 python app.py
 
-# URL: http://localhost:8000/factorial/5
+ URL: http://localhost:8000/factorial/(numero deseado)
 
 ## Ejecutar con Docker
 
